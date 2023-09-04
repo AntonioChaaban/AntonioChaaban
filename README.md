@@ -22,6 +22,7 @@
 
 #### Technologies & Frameworks & Runtimes & Softwares
 ![NodeJS](https://img.shields.io/badge/-Node-000?&logo=nodedotjs)
+![NodeJS](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Babel](https://img.shields.io/badge/-Babel-000?&logo=Babel)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
