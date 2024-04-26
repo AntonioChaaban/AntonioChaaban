@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioChaaban)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-5bx35m12c-antoniochaaban.vercel.app/api/top-langs/?username=antoniochaaban&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioChaaban)](https://github.com/anuraghazra/github-readme-stats)
 ###### Remember that most companies use their own and private (selfhost) instances of git (BitBucket or Gitlab for example). So this information is incomplete and represents a small amount of MR, PR and Commits that were done on Github or are mirrored on Github.
 
 - 🔭 I’m currently looking for a job
