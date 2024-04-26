@@ -7,8 +7,6 @@
 - ✅ My main Stack is JavaScript (Node, React, Next...) and Java (Camel, Sboot, hibernate...)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Linkedin"> [Linkedin@AntonioChaaban](https://www.linkedin.com/in/antonio-de-carvalho-chaaban/)
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" width="20" height="20" alt="Gitlab"> [Gitlab@AntonioChaaban](https://gitlab.com/AntonioChaaban/)
-
 ![Profile View](https://komarev.com/ghpvc/?username=AntonioChaaban&color=58a6ff)
 
 #### Languages
